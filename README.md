@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:38BDF8&height=180&section=header"
+    alt="Blue gradient header"
+  />
+</p>
 <h1 align="center">
   Hey there, I'm <span style="color:#38BDF8;">Sanyam</span>
 </h1>
