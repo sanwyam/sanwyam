@@ -9,8 +9,8 @@ I’m interested in how software, data, and mathematical thinking can help solve
     LinkedIn
   </a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/sanwyam">
-    GitHub
+  <a href="https://instagram.com/sanwyam">
+    Instagram
   </a>
 </div>
 
