@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=40&lines=AI+ML+%7C+Full+Stack+%7C+Finance+%7C+Management&repeat=false" alt="AI ML | Full Stack | Finance | Management" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Houria-hs?style=for-the-badge&logo=github&label=Followers&color=38BDF8" />
-  <img src="https://img.shields.io/github/stars/Houria-hs?style=for-the-badge&logo=github&label=Stars&color=38BDF8" />
-  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=38BDF8"/>
+  <img src="https://img.shields.io/github/followers/Sanwyam?style=for-the-badge&logo=github&label=Followers&color=38BDF8" />
+  <img src="https://img.shields.io/github/stars/Sanwyam?style=for-the-badge&logo=github&label=Stars&color=38BDF8" />
+  <img src="https://komarev.com/ghpvc/?username=Sanwyam&style=for-the-badge&color=38BDF8"/>
 </p>
 
 <h2 align="center">About Me</h2>
