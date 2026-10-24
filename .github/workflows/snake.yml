@@ -3,7 +3,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -21,7 +21,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: sanwyam
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2338BDF8&color_dots=%230B0F14,%230C2D48,%230C4A6E,%230EA5E9,%2338BDF8
             dist/github-contribution-grid-snake-dark.svg?color_snake=%2338BDF8&color_dots=%230B0F14,%230C2D48,%230C4A6E,%230EA5E9,%2338BDF8
