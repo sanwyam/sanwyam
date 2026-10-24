@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sanwyam/sanwyam/main/assets/Gemini_Generated_Image_h43s7rh43s7rh43s.png"
+    alt="Sanyam's GitHub Banner"
+    width="100%"
+  >
+</p>
+
 <h1 align="center">
   Hey there, I'm <span style="color:#38BDF8;">Sanyam</span>
 </h1>
