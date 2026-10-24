@@ -1,16 +1,9 @@
 <div align="center">
-  <img
-    src="./banner.png"
-    alt="Books, development, finance, shows, and sports"
-    width="100%"
-  />
 
-  <h2>Hey, I'm Sanyam.</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:334155&height=120&section=header&text=Sanyam&fontSize=40&fontColor=F8FAFC&fontAlignY=55" alt="Minimal dark header banner" width="100%" />
 
-  <p>
-    Computer and Communication Engineering student
-    at KJ Somaiya College of Engineering
-  </p>
+Computer and Communication Engineering · Technology · Data · Finance
+I’m interested in how software, data, and mathematical thinking can help solve real-world and business problems.
 
   <a href="https://www.linkedin.com/in/sanwyam/">
     LinkedIn
