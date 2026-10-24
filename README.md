@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sanwyam?style=for-the-badge&logo=github&label=Followers&color=38BDF8" />
   <img src="https://img.shields.io/github/stars/Sanwyam?style=for-the-badge&logo=github&label=Stars&color=38BDF8" />
-  <img src="https://komarev.com/ghpvc/?username=Sanwyam&style=for-the-badge&color=38BDF8"/>
+  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=38BDF8"/>
 </p>
 
 <h2 align="center">About Me</h2>
