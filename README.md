@@ -91,9 +91,15 @@
 
 ---
 
-<h2 align="center">🐍Contribution Graph</h2>
+<h2 align="center">🐍 Contribution Graph</h2>
 
-![Contribution Snake](https://raw.githubusercontent.com/sanwyam/sanwyam/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sanwyam/sanwyam/output/github-contribution-grid-snake-dark.svg?v=2"
+    alt="Contribution Snake"
+    width="100%"
+  />
+</p>
 
 <h2 align="center">🌐Let's Connect</h2>
 
