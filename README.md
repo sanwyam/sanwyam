@@ -1,50 +1,117 @@
 <div align="center">
+  <img
+    src="./banner.png"
+    alt="Books, development, finance, shows, and sports"
+    width="100%"
+  />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:334155&height=120&section=header&text=Sanyam&fontSize=40&fontColor=F8FAFC&fontAlignY=55" alt="Minimal dark header banner" width="100%" />
+  <h2>Hey, I'm Sanyam.</h2>
 
-Computer and Communication Engineering · Technology · Data · Finance
-I’m interested in how software, data, and mathematical thinking can help solve real-world and business problems.
+  <p>
+    Computer and Communication Engineering student
+    at KJ Somaiya College of Engineering
+  </p>
 
-LinkedIn · GitHub
+  <a href="https://www.linkedin.com/in/sanwyam/">
+    LinkedIn
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sanwyam">
+    GitHub
+  </a>
 </div>
 
-About me
-- 🎓 Studying Computer and Communication Engineering at KJ Somaiya College of Engineering, with a minor in FinTech.
-- 📊 Interested in financial data analysis, business analytics, and FinTech.
-- 🛠️ Exploring projects across web development, embedded systems, and immersive learning.
-- 🧠 I enjoy problem-solving, mathematics, and understanding how complex systems work.
-- 🤝 Always happy to learn from others and collaborate on interesting projects.
-Selected projects
-FreightPulse
-A bulk-cargo and vessel-chartering concept focused on freight procurement and decision support.
-Explored stack: React, Python, data analysis, machine learning.
+---
 
-safeGrain
-An Arduino-based grain-storage monitor using environmental sensors to flag conditions associated with spoilage.
-Technologies: Arduino, sensors, embedded systems.
+## About
 
-VR Medical Explorer
-A virtual-reality anatomy-learning concept with interactive heart and brain modules.
-Technologies: Unity, C#, OpenXR.
+I'm interested in the intersection of **technology, data, and finance**.
 
-Apartment Maintenance System
-A web app for residents and administrators to manage apartments, bills, payments, complaints, notices, and receipt generation.
-Technologies: React, Vite.
-Tech I work with
-Languages
-C · C++ · Java · Python
+I enjoy breaking down complex problems, understanding how systems work,
+and building projects that connect technical ideas with practical applications.
 
-Development & tools
-React · Vite · Git · GitHub · Arduino · Unity · LTspice · SolidWorks
-GitHub at a glance
+My interests span financial analysis, software development,
+mathematics, and experimenting with new technologies.
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>FreightPulse</h3>
+      A data-driven bulk cargo and vessel chartering concept
+      focused on freight procurement and decision support.
+      <br/><br/>
+      <sub>React · Python · Machine Learning · PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>safeGrain</h3>
+      An Arduino-based grain storage monitoring system that
+      uses environmental sensors to flag conditions associated
+      with spoilage.
+      <br/><br/>
+      <sub>Arduino · Sensors · Embedded Systems</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>VR Medical Explorer</h3>
+      A virtual reality learning experience for exploring
+      human anatomy through interactive heart and brain modules.
+      <br/><br/>
+      <sub>Unity · C# · OpenXR</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Apartment Maintenance System</h3>
+      A web application for residents and administrators to
+      manage apartments, bills, payments, complaints, notices,
+      and receipts.
+      <br/><br/>
+      <sub>React · Vite</sub>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-333333?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+
+**Development**
+
+![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-333333?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)
+
+**Tools & Technologies**
+
+![Arduino](https://img.shields.io/badge/Arduino-333333?style=flat-square&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-333333?style=flat-square&logo=unity&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-333333?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-333333?style=flat-square)
+
+## GitHub Stats
+
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanwyam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for sanwyam" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwyam&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most-used languages for sanwyam" />
-
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=sanwyam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwyam&layout=compact&hide_border=true&theme=transparent&langs_count=6"
+    alt="Most-used programming languages"
+  />
 </div>
 
-<div align="center">
+---
 
-Curious by default. Building, learning, and improving one project at a time.
+<div align="center">
+  <sub>Always learning. Always building.</sub>
 </div>
