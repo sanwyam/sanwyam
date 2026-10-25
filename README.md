@@ -75,19 +75,24 @@
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<p align="center">
-  
-<img
-  src="https://streak-stats.demolab.com?user=sanwyam&theme=dark&hide_border=true&background=0D1117&stroke=1F2937&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&timezone=Asia%2FKolkata"
-  height="165"
-  alt="GitHub streak stats"
-/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwyam&layout=compact&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&hide_border=true"
-    height="165"
-    alt="Most used programming languages"
-  />
-</p>
+<table align="center" width="90%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://streak-stats.demolab.com?user=sanwyam&hide_border=true&background=0D1117&stroke=1F2937&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&timezone=Asia%2FKolkata"
+        width="100%"
+        alt="GitHub Streak Stats"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwyam&layout=donut&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&hide_border=true"
+        width="100%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
