@@ -83,7 +83,7 @@
   alt="GitHub streak stats"
 />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwyam&layout=compact&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-?username=Sanwyam&layout=compact&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&hide_border=true"
     height="165"
     alt="Most used programming languages"
   />
