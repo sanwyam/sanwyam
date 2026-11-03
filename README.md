@@ -73,26 +73,30 @@
 
 ---
 
+<hr>
+
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td align="center" width="50%">
       <img
-        src="YOUR_EXISTING_STREAK_CARD_URL"
-        height="180"
+        src="https://streak-stats.demolab.com?user=sanwyam&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"
         alt="GitHub Streak"
+        width="100%"
       />
     </td>
-    <td width="50%" align="center">
+    <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwyam&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117"
-        height="180"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanwyam&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117"
         alt="Most Used Languages"
+        width="100%"
       />
     </td>
   </tr>
 </table>
+
+<hr>
 
 ---
 
