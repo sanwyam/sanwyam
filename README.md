@@ -116,7 +116,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sanwyam/sanwyam/output/github-contribution-grid-snake-dark.svg?v=2"
+    src="https://raw.githubusercontent.com/sanwyam/sanwyam/snake-output/github-contribution-grid-snake-dark.svg?v=2"
     alt="Contribution Snake"
     width="100%"
   />
