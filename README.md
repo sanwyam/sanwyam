@@ -6,25 +6,36 @@
   >
 </p>
 
-<h1 align="center">
-  <span style="color:#38BDF8;">Sanyam</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=40&lines=AI+ML+%7C+Full+Stack+%7C+Finance+%7C+Management&repeat=false" alt="AI ML | Full Stack | Finance | Management" />
+<h1>Sanyam</h1>
+
+<hr />
+
+<p><strong>AI ML &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Finance &nbsp;·&nbsp; Management</strong></p>
+
+<p>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/E_M_A_I_L-1E2D3D?style=for-the-badge&logo=gmail&logoColor=7CC4FA" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/L_I_N_K_E_D_I_N-1E2D3D?style=for-the-badge&logo=linkedin&logoColor=7CC4FA" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/I_N_S_T_A_G_R_A_M-1E2D3D?style=for-the-badge&logo=instagram&logoColor=7CC4FA" alt="Instagram" />
+  </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Sanwyam?style=for-the-badge&logo=github&label=Followers&color=38BDF8" />
-  <img src="https://img.shields.io/github/stars/Sanwyam?style=for-the-badge&logo=github&label=Stars&color=38BDF8" />
-  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=38BDF8"/>
+
+</div>
+
+<br />
+
+<!-- ABOUT ME SECTION HEADER (SVG ICON + LETTER-SPACED TITLE + DIVIDER LINE) -->
+<p>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='28' viewBox='0 0 900 28'><g fill='none' stroke='%237CC4FA' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' transform='translate(0, 4)'><circle cx='10' cy='7' r='4'/><path d='M3 20v-2a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v2'/></g><text x='32' y='19' fill='%237CC4FA' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='13' font-weight='700' letter-spacing='3.5'>ABOUT ME</text><line x1='165' y1='14' x2='900' y2='14' stroke='%2321262D' stroke-width='1.5'/></svg>" width="100%" alt="About Me" />
 </p>
-
-<h2 align="center">About Me</h2>
-
-<table align="center">
-<tr>
-
-<td width="65%" valign="top">
 
 - Bachelor's in Computer and Communication Engineering from K.J. Somaiya College of Engineering.
 - Honours in GenAI & Minor in Fintech.
@@ -33,85 +44,44 @@
 - Currently learning GenAI, Deep Learning and FinTech.
 - Interested in Finance and Management.
 - Passionate about Astronomy, Art, Books, Psychology.
-- Always trying to learn the most niche topics out there.
-</td>
 
-<td width="35%" align="center" valign="middle">
+<br />
 
-<img src="https://github.com/user-attachments/assets/3057bd65-33a9-4109-9a8c-5184acf59ac2" width="250" alt="My pixel art avatar" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">💻Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+<!-- TECH STACK SECTION HEADER (SVG </> ICON + LETTER-SPACED TITLE + DIVIDER LINE) -->
+<p>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='28' viewBox='0 0 900 28'><g fill='none' stroke='%237CC4FA' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' transform='translate(0, 4)'><polyline points='16 18 22 12 16 6'/><polyline points='8 6 2 12 8 18'/></g><text x='34' y='19' fill='%237CC4FA' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='13' font-weight='700' letter-spacing='3.5'>TECH STACK</text><line x1='190' y1='14' x2='900' y2='14' stroke='%2321262D' stroke-width='1.5'/></svg>" width="100%" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark" />
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-1E2D3D?style=flat-square&logo=c&logoColor=7CC4FA" alt="C" />
+  <img src="https://img.shields.io/badge/C++-1E2D3D?style=flat-square&logo=cplusplus&logoColor=7CC4FA" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-1E2D3D?style=flat-square&logo=openjdk&logoColor=7CC4FA" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1E2D3D?style=flat-square&logo=python&logoColor=7CC4FA" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-1E2D3D?style=flat-square&logo=javascript&logoColor=7CC4FA" alt="JavaScript" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-38BDF8?style=for-the-badge&logoColor=black" />
+**Web & databases**
+<p>
+  <img src="https://img.shields.io/badge/HTML-1E2D3D?style=flat-square&logo=html5&logoColor=7CC4FA" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1E2D3D?style=flat-square&logo=css3&logoColor=7CC4FA" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-1E2D3D?style=flat-square&logo=react&logoColor=7CC4FA" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-1E2D3D?style=flat-square&logo=nodedotjs&logoColor=7CC4FA" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1E2D3D?style=flat-square&logo=tailwindcss&logoColor=7CC4FA" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1E2D3D?style=flat-square&logo=postgresql&logoColor=7CC4FA" alt="PostgreSQL" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes&theme=dark" />
+**AI, data & tools**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-1E2D3D?style=flat-square&logo=scikitlearn&logoColor=7CC4FA" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-1E2D3D?style=flat-square&logo=pandas&logoColor=7CC4FA" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-1E2D3D?style=flat-square&logo=python&logoColor=7CC4FA" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/XGBoost-1E2D3D?style=flat-square&logo=xgboost&logoColor=7CC4FA" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Docker-1E2D3D?style=flat-square&logo=docker&logoColor=7CC4FA" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-1E2D3D?style=flat-square&logo=kubernetes&logoColor=7CC4FA" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-1E2D3D?style=flat-square&logo=git&logoColor=7CC4FA" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1E2D3D?style=flat-square&logo=github&logoColor=7CC4FA" alt="GitHub" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/PramudithaN/git-tulkun">
-    <img
-      src="https://raw.githubusercontent.com/sanwyam/sanwyam/output/tulkun/tulkun.gif"
-      width="640"
-      alt="My GitHub Tulkun swimming"
-    />
-  </a>
-</p>
-
----
-
-<hr>
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://streak-stats.demolab.com?user=sanwyam&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"
-        alt="GitHub Streak"
-        width="100%"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanwyam&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117"
-        alt="Most Used Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-<hr>
-
----
-
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
@@ -120,30 +90,4 @@
     alt="Contribution Snake"
     width="100%"
   />
-</p>
-
-<h2 align="center">🌐Let's Connect</h2>
-
-<p align="center">
-
-<a href="www.linkedin.com/in/sanwyam">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/sanwyam">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:sanyam7459@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  See you in the next commit 👋
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:38BDF8&height=140&section=footer"/>
 </p>
