@@ -12,17 +12,11 @@
 <p><strong>AI ML &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Finance &nbsp;·&nbsp; Management</strong></p>
 
 <p>
-  <a href="mailto:sanyam7459@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-1E2D3D?style=for-the-badge&logo=gmail&logoColor=7CC4FA" alt="Email" />
-  </a>
+  <a href="mailto:sanyam7459@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1E2D3D?style=for-the-badge&logo=gmail&logoColor=7CC4FA" alt="Email" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/sanwyam" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-1E2D3D?style=for-the-badge&logo=linkedin&logoColor=7CC4FA" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/sanwyam" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1E2D3D?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzdDQzRGQSI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi0xNGMwLTEuMS0uOS0yLTItMnptLTExIDE0aC0zdi05aDN2OXptLTEuNS0xMC4zYy0xIDAtMS44LS44LTEuOC0xLjhTMDUuNSA1IDYuNSA1czEuOC44IDEuOCAxLjgtLjggMS44LTEuOCAxLjh6bTEyLjUgMTAuM2gtM3YtNC43YzAtMS4xLS40LTEuOS0xLjQtMS45LS44IDAtMS4yLjUtMS40IDEtLjEuMi0uMS41LS4xLjh2NC44aC0zdi05aDN2MS4zYy40LS42IDEuMS0xLjUgMi43LTEuNSAyIDAgMy40IDEuMyAzLjQgNC4xdjUuMXoiLz48L3N2Zz4=&logoColor=7CC4FA" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://instagram.com/sanwyam" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-1E2D3D?style=for-the-badge&logo=instagram&logoColor=7CC4FA" alt="Instagram" />
-  </a>
+  <a href="https://instagram.com/sanwyam" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-1E2D3D?style=for-the-badge&logo=instagram&logoColor=7CC4FA" alt="Instagram" /></a>
 </p>
 
 </div>
