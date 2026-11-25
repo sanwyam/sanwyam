@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" fill="none">
+  <g stroke="#7CC4FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(0, 4)">
+    <polyline points="16 18 22 12 16 6" />
+    <polyline points="8 6 2 12 8 18" />
+  </g>
+  <text x="34" y="19" fill="#7CC4FA" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.5">TECH STACK</text>
+  <line x1="190" y1="14" x2="900" y2="14" stroke="#21262D" stroke-width="1.5" />
+</svg>
